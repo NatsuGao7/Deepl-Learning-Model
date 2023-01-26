@@ -1,0 +1,37 @@
+├── Buddha.py
+├── DRIVE
+│   └── datasets
+│       ├── test
+│       └── training
+├── my_dataset.py
+├── predict.py
+├── __pycache__
+│   ├── my_dataset.cpython-39.pyc
+│   └── transforms.cpython-39.pyc
+├── README.md
+├── requirements.txt
+├── results20230116-232259.txt
+├── results20230124-103802.txt
+├── save_weights
+│   └── best_model.pth
+├── src
+│   ├── __pycache__
+│   │   └── unet.cpython-39.pyc
+│   └── unet.py
+├── test_result.png
+├── tests_result.png
+├── train.py
+├── train_utils
+│   ├── dice_coefficient_loss.py
+│   ├── distributed_utils.py
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── dice_coefficient_loss.cpython-39.pyc
+│   │   ├── distributed_utils.cpython-39.pyc
+│   │   ├── __init__.cpython-39.pyc
+│   │   └── train_and_eval.cpython-39.pyc
+│   └── train_and_eval.py
+├── transforms.py
+└── version
+
+10 directories, 25 files
